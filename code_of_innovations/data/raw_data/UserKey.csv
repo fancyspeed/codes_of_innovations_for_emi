@@ -1,0 +1,27 @@
+RESPID,User id,,
+GENDER,Male/Female,,
+AGE,Age in years,,
+WORKING,Working status,,
+REGION,Region of the UK,,
+MUSIC,Listening to music that you have chosen / bought (eg. playing CDs or listening to your iPod) -,,
+LIST_OWN,Listening to music that may be on in the background (e.g. the radio or a streaming service like last.fm) -,,
+LIST_BACK,Listening to music that may be on in the background (e.g. the radio or a streaming service like last.fm) -,,
+Q1,I enjoy actively searching for and discovering music that I have never heard before (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q2,I find it easy to find new music (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q3,I am constantly interested in and looking for more music (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q4,I would like to buy new music but I don’t know what to buy (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q5,I used to know where to find music, but now I can’t find what I want (Thinking now about music, to what extent would you agree or disagree with the following statements?)
+Q6,I am not willing to pay for music (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q7,I enjoy music primarily from going out to dance (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q8,Music for me is all about nightlife and going out (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q9,I am out of touch with new music (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q10,My music collection is a source of pride (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q11,Pop music is fun, it makes me feel good (Thinking now about music, to what extent would you agree or disagree with the following statements?)
+Q12,Pop music helps me to escape (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q13,I want a multi media experience at my fingertips wherever I go (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q14,I love technology, and music is a big part of that technology (Thinking now about music, to what extent would you agree or disagree with the following statements?)
+Q15,People often ask my advice on music - what to listen to, where to buy it (Thinking now about music, to what extent would you agree or disagree with the following statements?)
+Q16,I would be willing to pay for the opportunity to buy new music pre-release - Thinking now about music, to what extent would you agree or disagree with the following statements?,
+Q17,I find seeing a new artist / band on TV a useful way of discovering new music (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q18,I like to be at the cutting edge of new music (Thinking now about music, to what extent would you agree or disagree with the following statements?),
+Q19,I like to know about music before other people (Thinking now about music, to what extent would you agree or disagree with the following statements?),

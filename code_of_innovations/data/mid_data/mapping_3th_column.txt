@@ -1,0 +1,7 @@
+Own a lot of their music,own_lot
+Own a little of their music,own_little
+Own none of their music,own_none
+DonÕt know,own_notknow
+don`t know,own_notknow
+Own all or most of their music,own_all
+Don’t know,own_notknow

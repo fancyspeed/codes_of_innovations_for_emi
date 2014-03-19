@@ -4,14 +4,16 @@
   svdfeature can be downloaded from website of SJTU apex lab: 
   http://apex.sjtu.edu.cn/apex_wiki/svdfeature
 2. usage:
-  cd bin
-  ./run_prepare.sh
-  ./run_predict_all.sh
+  >>cd bin
+  >>chmod u+x *.sh
+  >>chmod u+x ../svdfeature_bin/*
+  >>./run_prepare.sh
+  >>./run_predict_all.sh
 3. output
   file for submission is result/output_all_post.csv 
 4. experiments on validation set
-  cd bin
-  ./run_prepare.sh
-  ./run_predict_validation.sh
+  >>cd bin
+  >>./run_prepare.sh
+  >>./run_predict_validation.sh
 5. any question, please contact:  Zuotao Liu(zuotao.liu@gmail.com)
   

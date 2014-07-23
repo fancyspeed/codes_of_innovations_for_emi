@@ -22,9 +22,9 @@ cd ../../bin
 # get RMSE 
 cd ../src/evaluation
 echo 'model 1, evaluating'
-python evulation.py ../../data/validation/my_test.csv ../model_1/result/output.csv all
+python metric_RMSE.py ../../data/validation/my_test.csv ../model_1/result/output.csv all
 echo 'model 2, evaluating'
-python evulation.py ../../data/validation/my_test.csv ../model_2/result/output.csv all
+python metric_RMSE.py ../../data/validation/my_test.csv ../model_2/result/output.csv all
 cd ../../bin
 
 #post-process
@@ -42,8 +42,8 @@ cd ../../bin
 
 cd ../src/evaluation
 echo 'evaluating after ensemble'
-python evulation.py ../../data/validation/my_test.csv ../../result/output_validation.csv all
+python metric_RMSE.py ../../data/validation/my_test.csv ../../result/output_validation.csv all
 echo 'evaluating after postprocess'
-python evulation.py ../../data/validation/my_test.csv ../../result/output_validation_post.csv all
+python metric_RMSE.py ../../data/validation/my_test.csv ../../result/output_validation_post.csv all
 cd ../../bin
 
